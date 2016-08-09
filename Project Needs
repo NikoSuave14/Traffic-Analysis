@@ -1,1 +1,34 @@
-Test 2
+Project Needs - Large Scope
+1. Total Number of Intersections
+2. Existing ADT
+3. Future ADT
+4. Intersection Configuration
+5. Development Location
+6. Traffic Distribution %s?
+7. Location of Homes / Businesses / Types
+8. Urban vs Rural
+9. Curb & Gutter vs Shoulder
+10. Check for balanced existing 
+11. Take all Existing Data, New Development Data, No-Build Growth, and Distribution %s and come up with:
+  -Existing Digram
+  -Site Diagram
+  -Pass-by Diagram
+  -Future No-Build Diagram
+  -Future Build Diagram
+12. For Unsignalized Intersections, come up with LOS calculations
+13. Come up with easily interchangable intersection configuration replacements/alternatives (For example, replace full with RI/RO)
+
+  
+
+Intersection Needs - Specific
+1. Number of legs? (up to 6)
+2. Configuration? Roundabout vs lanes
+3. Signalized or Unsignalized?
+4. Existing Counts/movements?
+5. Total Site Generated?
+6. Pass-by volumes?
+7. Calc. total Entering Leg
+8. Calc. total Exiting Leg
+9. Heavy Vehicle %s?
+10. Adjacent to development?
+11. 
